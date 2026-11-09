@@ -1,0 +1,4 @@
+azure-eventhub>=5.15
+psutil>=7.0
+pandas>=2.2
+matplotlib>=3.9

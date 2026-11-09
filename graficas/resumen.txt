@@ -1,0 +1,11 @@
+TABLA 3 - Resumen estadístico de la telemetría recibida
+  Mensajes recibidos: 274   Duración: 14.0 min   Periodo mediano de envío: 2.00 s   Mensajes con alerta (>30 °C): 48
+  Temperatura (°C)   mín=20.06  máx=31.97  promedio=25.90  desv. estándar=3.40
+  Humedad (%)        mín=60.02  máx=80.00  promedio=69.04  desv. estándar=5.72
+
+TABLA 4 - Valores registrados por el script (promedio | máximo)
+  CPU total (%)                    12.81 |     30.70
+  CPU del navegador (%)             0.64 |     11.22
+  Memoria del navegador (MB)     1314.02 |   1783.70
+  Red enviada (KB/s)                4.75 |    129.75
+  Muestras: 415  (cada 2 s)

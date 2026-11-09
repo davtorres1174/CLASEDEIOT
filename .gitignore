@@ -1,0 +1,26 @@
+# Secretos: cadena de conexión de Azure (usar .env.ejemplo como plantilla)
+.env
+.env.*
+!.env.ejemplo
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Datos de corridas descartadas o intermedias (solo se versiona la corrida final)
+datos/*_anterior_*.csv
+datos/*_completo_original.csv
+
+# Capturas de pantalla personales y notas de trabajo (están en el artículo)
+capturas/
+
+# Editores y sistema operativo
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
